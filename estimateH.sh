@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sim=$1
 maf=$2
 h=$3
